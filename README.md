@@ -122,4 +122,10 @@ The system contains multiple security weaknesses that may be exploited by attack
 
 ---
 
-## 📁 Repository Structure
+## ⚠️ Disclaimer
+This report is created for **educational and authorized security testing purposes only**. Any unauthorized testing against systems without permission is illegal.
+
+---
+
+## 👨‍💻 Author
+Cybersecurity Student | Penetration Testing Enthusiast
